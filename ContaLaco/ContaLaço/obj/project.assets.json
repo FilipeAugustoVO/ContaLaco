@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Convidado\\Desktop\\Projetos C Sharp\\ContaLaço\\ContaLaço\\ContaLaço.csproj",
+      "projectUniqueName": "C:\\Users\\Convidado\\Desktop\\Projetos C Sharp\\ContaLaco\\ContaLaço\\ContaLaço.csproj",
       "projectName": "ContaLaço",
-      "projectPath": "C:\\Users\\Convidado\\Desktop\\Projetos C Sharp\\ContaLaço\\ContaLaço\\ContaLaço.csproj",
+      "projectPath": "C:\\Users\\Convidado\\Desktop\\Projetos C Sharp\\ContaLaco\\ContaLaço\\ContaLaço.csproj",
       "packagesPath": "C:\\Users\\Convidado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Convidado\\Desktop\\Projetos C Sharp\\ContaLaço\\ContaLaço\\obj\\",
+      "outputPath": "C:\\Users\\Convidado\\Desktop\\Projetos C Sharp\\ContaLaco\\ContaLaço\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

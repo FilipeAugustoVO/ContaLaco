@@ -1,0 +1,11 @@
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\bin\Debug\netcoreapp2.1\ContaLaço.deps.json
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\bin\Debug\netcoreapp2.1\ContaLaço.runtimeconfig.json
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\bin\Debug\netcoreapp2.1\ContaLaço.runtimeconfig.dev.json
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\bin\Debug\netcoreapp2.1\ContaLaço.dll
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\bin\Debug\netcoreapp2.1\ContaLaço.pdb
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\obj\Debug\netcoreapp2.1\ContaLaço.csprojAssemblyReference.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\obj\Debug\netcoreapp2.1\ContaLaço.csproj.CoreCompileInputs.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\obj\Debug\netcoreapp2.1\ContaLaço.AssemblyInfoInputs.cache
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\obj\Debug\netcoreapp2.1\ContaLaço.AssemblyInfo.cs
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\obj\Debug\netcoreapp2.1\ContaLaço.dll
+C:\Users\Convidado\Desktop\Projetos C Sharp\ContaLaco\ContaLaço\obj\Debug\netcoreapp2.1\ContaLaço.pdb
